@@ -106,16 +106,7 @@ public class HomeWorkApp004 {
         }
         return false;
     }
-//        if(map[0][0] == symb && map[0][1] == symb && map[0][2] == symb) return true;
-//        if(map[1][0] == symb && map[1][1] == symb && map[1][2] == symb) return true;
-//        if(map[2][0] == symb && map[2][1] == symb && map[2][2] == symb) return true;
-//        if(map[0][0] == symb && map[1][0] == symb && map[2][0] == symb) return true;
-//        if(map[0][1] == symb && map[1][1] == symb && map[2][1] == symb) return true;
-//        if(map[0][2] == symb && map[1][2] == symb && map[2][2] == symb) return true;
-//        if(map[0][0] == symb && map[1][1] == symb && map[2][2] == symb) return true;
-//        if(map[2][0] == symb && map[1][1] == symb && map[0][2] == symb) return true;
-//        return false;
-//    }
+
 
     public static boolean isCellValid(int x, int y) {
         if (x < 0 || x >= SIZE || y < 0 || y >= SIZE) {
