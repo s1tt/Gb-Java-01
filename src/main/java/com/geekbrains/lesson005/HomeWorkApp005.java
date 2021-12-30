@@ -35,8 +35,7 @@ public class HomeWorkApp005 {
         }
 
         public String printText() {
-            String text = "Имя сотрудника: " + this.name + ". Должность: " + this.position + ". Почта: " + this.email + ". Телефон: "
-                    + this.phone + ". Зарплата: " + this.salary + ". Возраст: " + this.age;
+            String text = "Имя сотрудника: " + this.name + ". Должность: " + this.position + ". Почта: " + this.email + ". Телефон: " + this.phone + ". Зарплата: " + this.salary + ". Возраст: " + this.age;
             return text;
         }
     }
