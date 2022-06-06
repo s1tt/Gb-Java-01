@@ -17,19 +17,19 @@ public class HomeWorkApp {
         int a = 2;
         int b = 3;
         if (a + b >= 0) {
-            System.out.println("Сумма положительная");
+            System.out.println("The sum of the numbers is positive");
         } else {
-            System.out.println("Сумма отрицательная");
+            System.out.println("The sum of the numbers is negative");
         }
     }
     public static void printColor() {
         int value = 6;
         if (value <= 0) {
-            System.out.println("Красный");
+            System.out.println("Red");
         } else if (value > 0 && value <= 100) {
-            System.out.println("Желтый");
+            System.out.println("Yellow");
         } else {
-            System.out.println("Зеленый");
+            System.out.println("Green");
         }
     }
     public static void compareNumbers(){
