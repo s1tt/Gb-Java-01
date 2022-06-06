@@ -1,6 +1,7 @@
 package com.geekbrains.lesson002;
 
 public class HomeWorkApp002 {
+
     public static void main(String[] args) {
         System.out.println(within10and20(7,3));
         isPositiveOrNegativeNumber(0);
