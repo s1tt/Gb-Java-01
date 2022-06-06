@@ -1,6 +1,6 @@
 ## Java Tasks from GeekBrains (Java. Level 1)
 ### 👨🏽‍💻 Author: Sergey Alekseev
-![GitHub followers](https://img.shields.io/github/followers/s1tt?style=social)
+
 ### List of lessons
 * [Lesson 1](#lesson-1)
 * [Lesson 2](#lesson-2)
@@ -88,6 +88,6 @@
 >>
 >6. Добавить в тарелку метод, с помощью которого можно было бы добавлять еду в тарелку.
 ## [[ Open Lesson 7 solution ]](https://github.com/s1tt/Gb-Java-01/tree/master/src/main/java/com/geekbrains/lesson007)
-# Lesson 6
+# Lesson 8
 >1. Написать калькулятор с графическим интерфейсом
 ## [[ Open Lesson 8 solution ]](https://github.com/s1tt/Gb-Java-01/tree/master/src/main/java/com/geekbrains/lesson008)
